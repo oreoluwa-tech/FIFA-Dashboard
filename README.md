@@ -4,7 +4,7 @@ Tableau
 Data Visualisation project 
 Visualising FIFA World Cup matches from 1930–2014,
 
-I chose to show the following for better understanding of the data set which are
+I choose to show the following for better understanding of the data set which are
 
 1.World cup wins by countries
 
